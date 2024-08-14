@@ -11,7 +11,7 @@ On arch Linux
 ### Build
 Just use g++ :
 ```bash
-g++ main.cpp -o mathpaper -lX11 -lSDL2
+g++ main.cpp -o trigonometry -lX11 -lSDL2
 ```
 
 ## Running
